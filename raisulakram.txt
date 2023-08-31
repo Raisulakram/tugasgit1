@@ -1,2 +1,3 @@
 hallo semuaa 
 - ini tugas pertama saya di git
+- saya baru pertama kali memakai git
